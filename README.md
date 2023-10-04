@@ -4,6 +4,6 @@ Protasenia Anna
 
  <<<<<<< HEAD
 new test
-=======
+=====
 test two
 
