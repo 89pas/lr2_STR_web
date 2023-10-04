@@ -2,4 +2,8 @@
 Protasenia Anna
 173602
 
+ <<<<<<< HEAD
 new test
+=======
+test two
+
